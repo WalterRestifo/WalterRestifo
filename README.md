@@ -1,7 +1,6 @@
 # Hi there 👋
 
-![Bild eines verkabelten Server](<img width="327" alt="bild-vom-server" src="https://user-images.githubusercontent.com/116001970/196200216-84ff1091-a0c3-42c7-97c9-cc1234768db7.png">
-)
+![Bild eines verkabelten Server](https://user-images.githubusercontent.com/116001970/196200216-84ff1091-a0c3-42c7-97c9-cc1234768db7.png)
 
 I am a state-certified technician for electrical engineering and data processing living in Aschaffenburg (Bavaria, Germany).
 I also am an approved instructor for electrical craftmanship. Right now I´m working to become a skilled web developer!
